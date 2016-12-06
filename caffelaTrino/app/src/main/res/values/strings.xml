@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">caffe laTrino</string>
+    <string name="glass">glass</string>
+    <string name="decaffeinated">decaffeinated</string>
+    <string name="strong">strong</string>
+    <string name="large">long</string>
+    <string name="gradation">with alcohol</string>
+    <string name="milk">with milk</string>
+    <string name="sugar">sugar</string>
+    <string name="less">-</string>
+    <string name="plus" >+</string>
+    <string name="brownSugar">Brown sugar</string>
+    <string name="honey">honey</string>
+    <string name="sweetener">sweetener</string>
+    <string name="textSugar">how much sugar?</string>
+    <string name="buy">buy</string>
+    <string name="back">back</string>
+    <string name="title">would you like some coffee?</string>
+    <string name="espresso">espresso</string>
+    <string name="ginseng">coffee with ginseng</string>
+    <string name="barley">barley coffee</string>
+    <string name="exit">exit</string>
+    <string name="yes">yes</string>
+    <string name="no">no</string>
+    <string name="close">close</string>
+    <string name="thanks">Thanks for ordering from us</string>
+    <string name="ginsengCoffee">ginseng</string>
+    <string name="barleyCoffee">barley</string>
+    <string name="exitStr">Are you sure you want to exit?</string>
+    <string name="brand">brand</string>
+    <string name="content">content</string>
+    <string name="espressoCoffee">espresso</string>
+</resources>

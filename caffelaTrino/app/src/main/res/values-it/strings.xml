@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">caffe laTrino</string>
+    <string name="back">indietro</string>
+    <string name="barley">caffe\' d\' orzo</string>
+    <string name="brownSugar">zucchero di canna</string>
+    <string name="buy">compra</string>
+    <string name="decaffeinated">decaffeinato</string>
+    <string name="espresso">espresso</string>
+    <string name="exit">esci</string>
+    <string name="ginseng">caffe\' al ginseng</string>
+    <string name="glass">in vetro</string>
+    <string name="gradation">correggi</string>
+    <string name="honey">miele</string>
+    <string name="large">lungo</string>
+    <string name="less">-</string>
+    <string name="milk">macchiato</string>
+    <string name="plus">+</string>
+    <string name="strong">ristretto</string>
+    <string name="sugar">zucchero</string>
+    <string name="sweetener">dolcificante</string>
+    <string name="textSugar">quanto zucchero?</string>
+    <string name="title">gradiresti del caffe\'?</string>
+    <string name="yes">si</string>
+    <string name="no">no</string>
+    <string name="close">chiudi</string>
+    <string name="thanks">grazie per aver ordinato da noi</string>
+    <string name="espressoCoffee">espresso</string>
+    <string name="ginsengCoffee">al ginseng</string>
+    <string name="barleyCoffee">d\' orzo</string>
+    <string name="exitStr">sicuro di voler uscire?</string>
+    <string name="brand">marca</string>
+    <string name="content">gradazione</string>
+</resources>
